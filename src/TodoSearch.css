@@ -1,0 +1,14 @@
+.TodoSearch {
+  width: 100%;
+  text-align: center;
+  border-radius: 8px;
+  border: solid 2.5px #244291;
+  padding: 12px 16px;
+  background-color: #d0ece4;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.TodoSearch:focus {
+  outline-color: #61dafa;
+}
