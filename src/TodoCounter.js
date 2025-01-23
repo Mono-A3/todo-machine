@@ -1,4 +1,5 @@
 import './TodoCounter.css';
+import React from 'react';
 
 function TodoCounter({ total, completed }) {
   const textH2 =
