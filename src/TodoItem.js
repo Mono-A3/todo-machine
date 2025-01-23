@@ -6,9 +6,12 @@ import React from 'react';
 function TodoItem(props) {
   return (
     <li className="TodoItem">
-      <FaCheck className="TodoItem-icon Icon-check" onClick={props.onComplete} />
+      <FaCheck
+        className={`TodoItem-icon Icon-check ${props.completed && 'Icon-check--complete'}`}
+        onClick={props.onComplete}
+      />
 
-      <p className={`${props.completed && 'TodoItem-p--complete'}`}>{props.text}</p>
+      <p className={`TodoItem-p ${props.completed && 'TodoItem-p--complete'}`}>{props.text}</p>
 
       <MdDelete className="TodoItem-icon Icon-delete" onClick={props.onDelete} />
     </li>
