@@ -3,16 +3,16 @@ import React from 'react';
 import { AppUI } from './AppUI';
 import { useLocalStorage } from './useLocalStorage';
 
-/* const defaultTodos = [
+/* localStorage.removeItem('TODOS_V1');
+const defaultTodos = [
   { text: 'Cortar cebolla', completed: true },
   { text: 'Tomar el Curso de Intro a React.js', completed: false },
   { text: 'Llorar con la llorona', completed: false },
   { text: 'Hola Stev', completed: false },
   { text: 'Usar estados derivados', completed: true },
-]; */
+];
 
-//localStorage.setItem('TODOS_V1', defaultTodos);
-//localStorage.removeItem('TODOS_V1');
+localStorage.setItem('TODOS_V1', defaultTodos); */
 
 function App() {
   const { item: todos, saveItem: saveTodos, loading, error } = useLocalStorage('TODOS_V1', []);
