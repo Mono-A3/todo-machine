@@ -10,3 +10,7 @@
   cursor: pointer;
   margin-bottom: 24px;
 }
+
+.CreateTodoButton:hover {
+  background-color: #03a9f4;
+}

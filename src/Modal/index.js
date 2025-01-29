@@ -6,12 +6,12 @@ import { TodoContext } from '../TodoContext';
 import './Modal.css';
 
 function Modal({ children }) {
-  const { openModal, setOpenModal } = React.useContext(TodoContext);
+  const { setOpenModal } = React.useContext(TodoContext);
 
   return ReactDOM.createPortal(
-    <div className="modal">
+    <div className="modalBackground">
       {children}
-      <button className="modal-button" onClick={() => setOpenModal(!openModal)}>
+      <button className="modal-button" onClick={() => setOpenModal((state) => !state)}>
         Cerrar
       </button>
     </div>,
