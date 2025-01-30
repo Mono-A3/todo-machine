@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/curso-react-intro/static/css/main.cc8b62a4.chunk.css",
+    "main.js": "/curso-react-intro/static/js/main.a1af7e3a.chunk.js",
+    "main.js.map": "/curso-react-intro/static/js/main.a1af7e3a.chunk.js.map",
+    "runtime-main.js": "/curso-react-intro/static/js/runtime-main.132aa7c8.js",
+    "runtime-main.js.map": "/curso-react-intro/static/js/runtime-main.132aa7c8.js.map",
+    "static/js/2.c0d933a0.chunk.js": "/curso-react-intro/static/js/2.c0d933a0.chunk.js",
+    "static/js/2.c0d933a0.chunk.js.map": "/curso-react-intro/static/js/2.c0d933a0.chunk.js.map",
+    "index.html": "/curso-react-intro/index.html",
+    "precache-manifest.19d33df935427a6cb4aa4c9a9a4b9cbb.js": "/curso-react-intro/precache-manifest.19d33df935427a6cb4aa4c9a9a4b9cbb.js",
+    "service-worker.js": "/curso-react-intro/service-worker.js",
+    "static/css/main.cc8b62a4.chunk.css.map": "/curso-react-intro/static/css/main.cc8b62a4.chunk.css.map",
+    "static/js/2.c0d933a0.chunk.js.LICENSE.txt": "/curso-react-intro/static/js/2.c0d933a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.132aa7c8.js",
+    "static/js/2.c0d933a0.chunk.js",
+    "static/css/main.cc8b62a4.chunk.css",
+    "static/js/main.a1af7e3a.chunk.js"
+  ]
+}
