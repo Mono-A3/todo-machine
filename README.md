@@ -1,75 +1,29 @@
-# Repositorio base del Curso de Introducción a React.js en Platzi
+# Curso React.js Intro
 
-¡Hola, Platzinauta!
+## 🌟 **Bienvenido a "Curso React Intro"**
 
-En este repositorio encontrarás el código de todas las clases del [Curso de Introducción a React.js](https://platzi.com/reactjs). Para empezar solo debes clonar este repositorio (`git clone`), instalar sus dependencias (`npm i`) y ejecutar la aplicación (`npm start`).
+Este proyecto es el resultado del aprendizaje en el **"Curso de React.js"** de Platzi. A través de su desarrollo, puse en práctica conceptos clave de React, como componentes, estados y efectos, creando una aplicación funcional y bien estructurada.
 
-La rama principal contiene el código con el que eempezamos el curso. En las demás ramas encontrarás el código de las siguientes clases y finalmente el deploy de la aplicación.
+## 💡 Descripción
 
-¡Mucha suerte aprendiendo React! #NuncaParesDeAprender
+**"Curso React Intro"** es un proyecto desarrollado con **React.js**, con el objetivo de comprender y aplicar las bases del desarrollo de aplicaciones web modernas. La aplicación demuestra el uso de componentes reutilizables, manejo de estado y eventos, y buenas prácticas en la organización del código.
 
-## Getting Started with Create React App
+## 🚀 Tecnologías Utilizadas
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- **React.js** - Biblioteca para la creación de interfaces de usuario.
+- **JavaScript (ES6+)** - Lenguaje principal de la aplicación.
+- **HTML5** - Estructura de la aplicación.
+- **CSS3** - Estilizado y diseño visual.
 
-## Available Scripts
+## 📜 Licencia
 
-In the project directory, you can run:
+Este proyecto está protegido bajo la [Licencia Personalizada de Andres Stiven Araque](./LICENSE.md).  
+El uso, modificación o redistribución de este proyecto está prohibido sin mi autorización previa. Para más información o para solicitar el uso del proyecto, contáctame en [aaraqueamaya397@gmail.com](mailto:aaraqueamaya397@gmail.com).
 
-### `npm start`
+## 💌 Contacto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Si tienes preguntas o sugerencias, no dudes en escribirme:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Correo**: [aaraqueamaya397@gmail.com](mailto:aaraqueamaya397@gmail.com)
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+¡Gracias por revisar este proyecto! 🚀
