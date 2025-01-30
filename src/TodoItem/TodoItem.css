@@ -8,6 +8,7 @@
   border-radius: 8px;
   border: solid 2px #244291;
   color: aliceblue;
+  width: 100%;
 }
 
 .TodoItem-icon {
