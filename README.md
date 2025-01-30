@@ -1,12 +1,12 @@
-# Curso React.js Intro
+# Todo Machine
 
-## 🌟 **Bienvenido a "Curso React Intro"**
+## 🌟 **Bienvenido a "Todo Machine"**
 
 Este proyecto es el resultado del aprendizaje en el **"Curso de React.js"** de Platzi. A través de su desarrollo, puse en práctica conceptos clave de React, como componentes, estados y efectos, creando una aplicación funcional y bien estructurada.
 
 ## 💡 Descripción
 
-**"Curso React Intro"** es un proyecto desarrollado con **React.js**, con el objetivo de comprender y aplicar las bases del desarrollo de aplicaciones web modernas. La aplicación demuestra el uso de componentes reutilizables, manejo de estado y eventos, y buenas prácticas en la organización del código.
+**"Todo Machine"** es un proyecto desarrollado con **React.js**, con el objetivo de comprender y aplicar las bases del desarrollo de aplicaciones web modernas. La aplicación demuestra el uso de componentes reutilizables, manejo de estado y eventos, y buenas prácticas en la organización del código.
 
 ## 🚀 Tecnologías Utilizadas
 
