@@ -6,7 +6,7 @@ Este proyecto es el resultado del aprendizaje en el **"Curso de React.js"** de P
 
 ## 💡 Descripción
 
-**"Todo Machine"** es un proyecto desarrollado con **React.js**, con el objetivo de comprender y aplicar las bases del desarrollo de aplicaciones web modernas. La aplicación demuestra el uso de componentes reutilizables, manejo de estado y eventos, y buenas prácticas en la organización del código.
+Aplicación web de gestión de tareas personales que permite crear, completar y eliminar pendientes. Construida con React.js, incorpora manejo de estado con hooks, localStorage para persistencia local y buenas prácticas de componentes reutilizables. Ideal para demostrar fundamentos de React y diseño funcional.
 
 ## 🚀 Tecnologías Utilizadas
 
